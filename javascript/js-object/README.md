@@ -1,7 +1,0 @@
----
-description: '-'
----
-
-# JS Object
-
-*
