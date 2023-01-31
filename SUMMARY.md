@@ -1,3 +1,3 @@
 # Table of contents
 
-* [README](README.md)
+* [TECH STACK](README.md)
