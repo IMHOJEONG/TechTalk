@@ -36,7 +36,10 @@
   * [Web Workers](javascript/functions/web-workers.md)
   * [HTML5 Communications](javascript/functions/html5-communications.md)
 * [web.dev](javascript/web.dev/README.md)
-  * [중요한 자산을 미리 로드하여 로딩 속도 향상](javascript/web.dev/undefined.md)
+  * [네트워크 페이로드 축소 및 압축](javascript/web.dev/undefined.md)
+  * [사용하지 않는 코드 제거](javascript/web.dev/undefined-1.md)
+  * [PRPL 패턴으로 즉시 로딩 적용](javascript/web.dev/prpl.md)
+  * [중요한 자산을 미리 로드하여 로딩 속도 향상](javascript/web.dev/undefined-2.md)
   * [Code 분할](javascript/code.md)
 
 ## Typescript
@@ -124,3 +127,12 @@
 
 * [1월의 web 플랫폼의 새로운 기능](web\_dev/1-web.md)
 * [Scrollend, 새로운 Javascript 이벤트](web\_dev/scrollend-javascript.md)
+* [Learn Accessibility](web\_dev/learn-accessibility/README.md)
+  * [디지털 접근성이란? 왜 중요한가요](web\_dev/learn-accessibility/undefined/README.md)
+    * [Page 5](web\_dev/learn-accessibility/undefined/page-5.md)
+
+## SLASH
+
+* [SLASH](slash/slash/README.md)
+  * [SLASH 22](slash/slash/slash-22/README.md)
+    * [Effective Component](slash/slash/slash-22/effective-component.md)
