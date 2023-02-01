@@ -4,6 +4,13 @@ description: '- React Suspense'
 
 # Suspense
 
+
+
+* React.lazy 및 Suspense를 사용한 코드 분할
+  * 사용자에게 필요한 것보다 더 많은 코드를 제공할 필요가 없으므로 번들을 분할하여 이러한 일이 발생하지 않도록 하자&#x20;
+
+
+
 * React.lazy 메서드&#x20;
   * 동적 가져오기를 사용해 구성 요소 수준에서 React 애플리케이션을 쉽게 코드 분할할 수 있음&#x20;
 
