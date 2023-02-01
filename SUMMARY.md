@@ -85,6 +85,7 @@
     * [IP Packing](os/routeros/firewall-and-quality-of-service/ip-packing.md)
     * [Layer7](os/routeros/firewall-and-quality-of-service/layer7.md)
   * [Installed Packages](os/routeros/installed-packages.md)
+  * [mikrotik](os/routeros/mikrotik.md)
 
 ## Network
 
