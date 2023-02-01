@@ -35,7 +35,9 @@
   * [Web Sockets API](javascript/functions/web-sockets-api.md)
   * [Web Workers](javascript/functions/web-workers.md)
   * [HTML5 Communications](javascript/functions/html5-communications.md)
-* [Code 분할](javascript/code.md)
+* [web.dev](javascript/web.dev/README.md)
+  * [중요한 자산을 미리 로드하여 로딩 속도 향상](javascript/web.dev/undefined.md)
+  * [Code 분할](javascript/web.dev/code.md)
 
 ## Typescript
 
