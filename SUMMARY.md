@@ -119,3 +119,7 @@
 
 * [Index](sveltekit/index.md)
 * [Svelte Tutorial](sveltekit/svelte-tutorial.md)
+
+## web\_dev
+
+* [1월의 web 플랫폼의 새로운 기능](web\_dev/1-web.md)
