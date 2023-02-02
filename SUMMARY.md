@@ -13,3 +13,13 @@
 ## 우아한테크기술블로그
 
 * [Page 3](undefined-1/page-3.md)
+
+## Google\_Tech\_Talk
+
+* [What is Data Center?](google\_tech\_talk/what-is-data-center.md)
+* [discovering Data centers](google\_tech\_talk/discovering-data-centers.md)
+* [Index](google\_tech\_talk/index.md)
+
+## youtube\_inner\_structure
+
+* [Page 4](youtube\_inner\_structure/page-4.md)
