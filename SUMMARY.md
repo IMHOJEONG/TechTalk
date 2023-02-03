@@ -22,7 +22,11 @@
 
 ## youtube\_inner\_structure
 
-* [자료조사](youtube\_inner\_structure/undefined.md)
+* [자료조사](youtube\_inner\_structure/page-4.md)
 * [Data](youtube\_inner\_structure/data.md)
 * [Vitess](youtube\_inner\_structure/vitess.md)
 * [Open Source Alternatives](youtube\_inner\_structure/open-source-alternatives.md)
+
+## Google Cloud
+
+* [Introducing Media CDN](google-cloud/introducing-media-cdn.md)
