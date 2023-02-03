@@ -1,6 +1,8 @@
-# Page 4
+---
+description: '-'
+---
 
-
+# 자료조사
 
 * [https://www.geeksforgeeks.org/how-does-youtube-store-and-analyze-such-huge-amount-of-data/](https://www.geeksforgeeks.org/how-does-youtube-store-and-analyze-such-huge-amount-of-data/)
 
@@ -38,5 +40,6 @@
 
 
 
+\
 
 
