@@ -83,9 +83,13 @@
     * [Kid Control](os/routeros/firewall-and-quality-of-service/kid-control.md)
     * [RAW](os/routeros/firewall-and-quality-of-service/raw.md)
     * [IP Packing](os/routeros/firewall-and-quality-of-service/ip-packing.md)
+    * [Queues](os/routeros/firewall-and-quality-of-service/queues/README.md)
+      * [Index](os/routeros/firewall-and-quality-of-service/queues/index.md)
+      * [Page 1](os/routeros/firewall-and-quality-of-service/queues/page-1.md)
     * [Layer7](os/routeros/firewall-and-quality-of-service/layer7.md)
   * [Installed Packages](os/routeros/installed-packages.md)
   * [mikrotik](os/routeros/mikrotik.md)
+  * [Fasttrack](os/routeros/fasttrack.md)
 
 ## Network
 
