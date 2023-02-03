@@ -6,6 +6,7 @@
 
 * [Page 1](nodejs/page-1.md)
 * [Page 2](nodejs/page-2.md)
+* [Inject](nodejs/inject.md)
 
 ## Packages
 
