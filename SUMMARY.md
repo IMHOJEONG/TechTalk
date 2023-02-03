@@ -15,3 +15,11 @@
 
 * [Index](gof-gang-of-four/index.md)
 * [Object-Oriented Programming in JS](gof-gang-of-four/object-oriented-programming-in-js.md)
+
+## Observer Pattern
+
+* [Page 4](observer-pattern/page-4.md)
+
+## AOP
+
+* [Page 5](aop/page-5.md)
