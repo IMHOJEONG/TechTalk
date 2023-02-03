@@ -23,6 +23,7 @@
 ## youtube\_inner\_structure
 
 * [자료조사](youtube\_inner\_structure/page-4.md)
+* [How to limit Youtube](youtube\_inner\_structure/how-to-limit-youtube.md)
 * [Data](youtube\_inner\_structure/data.md)
 * [Vitess](youtube\_inner\_structure/vitess.md)
 * [Open Source Alternatives](youtube\_inner\_structure/open-source-alternatives.md)
