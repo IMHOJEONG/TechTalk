@@ -14,6 +14,14 @@
   * [Page 1](css/preprocessor/page-1.md)
 * [Tailwind CSS](css/tailwind-css/README.md)
   * [Index](css/tailwind-css/index.md)
+* [:has()](css/has.md)
+* [@supports](css/supports.md)
+* [repeat()](css/repeat.md)
+* [aspect-ratio](css/aspect-ratio.md)
+* [scroll-behavior](css/scroll-behavior.md)
+* [backdrop-filter](css/backdrop-filter.md)
+* [grid-column](css/grid-column/README.md)
+  * [grid-column-start](css/grid-column/grid-column-start.md)
 
 ## Javascript
 
