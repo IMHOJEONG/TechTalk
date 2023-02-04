@@ -22,6 +22,10 @@
 * [backdrop-filter](css/backdrop-filter.md)
 * [grid-column](css/grid-column/README.md)
   * [grid-column-start](css/grid-column/grid-column-start.md)
+* [CSS Container Queries](css/css-container-queries/README.md)
+  * [Container queries - Designing in the Browser](css/css-container-queries/container-queries-designing-in-the-browser/README.md)
+    * [References](css/css-container-queries/container-queries-designing-in-the-browser/references.md)
+* [CSS Containment](css/css-containment.md)
 
 ## Javascript
 
