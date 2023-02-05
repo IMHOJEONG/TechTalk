@@ -26,6 +26,8 @@
   * [Container queries - Designing in the Browser](css/css-container-queries/container-queries-designing-in-the-browser/README.md)
     * [References](css/css-container-queries/container-queries-designing-in-the-browser/references.md)
 * [CSS Containment](css/css-containment.md)
+* [clamp()](css/clamp.md)
+* [Subgrid](css/subgrid.md)
 
 ## Javascript
 
