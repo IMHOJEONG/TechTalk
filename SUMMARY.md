@@ -28,6 +28,7 @@
 * [CSS Containment](css/css-containment.md)
 * [clamp()](css/clamp.md)
 * [Subgrid](css/subgrid.md)
+* [New color](css/new-color.md)
 
 ## Javascript
 
@@ -150,3 +151,7 @@
 * [SLASH](slash/slash/README.md)
   * [SLASH 22](slash/slash/slash-22/README.md)
     * [Effective Component](slash/slash/slash-22/effective-component.md)
+
+## Frontend design pattern
+
+* [FrontEnd Design Pattern](frontend-design-pattern/frontend-design-pattern.md)

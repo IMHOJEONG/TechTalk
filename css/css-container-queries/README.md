@@ -19,7 +19,7 @@ description: '-'
 * 컨테이너 주변 컨텍스트의 공간이 적은 경우&#x20;
 * ex) 특정 요소를 숨기거나 더 작은 글꼴을 사용할 수 있음&#x20;
 
-<figure><img src="../../.gitbook/assets/container-query-examples.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/container-query-examples (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Container Queries를 사용하기&#x20;
 
