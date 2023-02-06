@@ -27,6 +27,11 @@
 * [Data](youtube\_inner\_structure/data.md)
 * [Vitess](youtube\_inner\_structure/vitess.md)
 * [Open Source Alternatives](youtube\_inner\_structure/open-source-alternatives.md)
+* [How YouTube handles streaming 4,000,000,000+ daily videos without a hitch.](youtube\_inner\_structure/how-youtube-handles-streaming-4-000-000-000+-daily-videos-without-a-hitch..md)
+* [GGC?](youtube\_inner\_structure/ggc.md)
+* [HLS & Adaptive](youtube\_inner\_structure/hls-and-adaptive.md)
+* [LTE QoS](youtube\_inner\_structure/lte-qos.md)
+* [CDN](youtube\_inner\_structure/cdn.md)
 
 ## Google Cloud
 
