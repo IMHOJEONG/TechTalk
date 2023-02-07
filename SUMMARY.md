@@ -36,3 +36,7 @@
 ## Google Cloud
 
 * [Introducing Media CDN](google-cloud/introducing-media-cdn.md)
+
+## Deview
+
+* [Page 4](deview/page-4.md)
