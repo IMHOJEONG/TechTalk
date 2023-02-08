@@ -29,6 +29,7 @@
 * [clamp()](css/clamp.md)
 * [Subgrid](css/subgrid.md)
 * [New color](css/new-color.md)
+* [Shape](css/shape.md)
 
 ## Javascript
 
