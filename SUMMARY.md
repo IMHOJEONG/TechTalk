@@ -157,3 +157,7 @@
 ## Frontend design pattern
 
 * [FrontEnd Design Pattern](frontend-design-pattern/frontend-design-pattern.md)
+
+## NextJS
+
+* [Page 7](nextjs/page-7.md)
