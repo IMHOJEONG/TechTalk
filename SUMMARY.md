@@ -123,4 +123,4 @@
 * [PQCrypto-VPN](pqcrypto-openvpn/pqcrypto-vpn.md)
 * [CRYSTALS](pqcrypto-openvpn/crystals/README.md)
   * [Kyber](pqcrypto-openvpn/crystals/kyber.md)
-  * [Page 6](pqcrypto-openvpn/crystals/page-6.md)
+  * [Dilithium](pqcrypto-openvpn/crystals/dilithium.md)
