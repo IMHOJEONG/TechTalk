@@ -68,8 +68,23 @@ description: '- TLS 보안'
   * **Elliptic Curve Digital Signature Algorithm**
 * **AES\_128\_GCM :** 데이터 암호화 알고리즘&#x20;
   * Advanced Encryption Standard 128 bit Galois/Counter Mode&#x20;
-* SHA256 : 메시지 인증 코드(MAC) 알고리즘&#x20;
-  *   Secure Hash Algorithm 256
+* **SHA256** : 메시지 인증 코드(MAC) 알고리즘&#x20;
+  * Secure Hash Algorithm 256
+
+#### 압축 알고리즘&#x20;
+
+* 데이터 압축(암호화 전)에 사용할 방법 목록&#x20;
+* 압축을 사용하면 대역폭&#x20;
+
+
+
+
+
+
+
+
+
+
 
 
 
