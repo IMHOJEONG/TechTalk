@@ -121,6 +121,7 @@
 
 ## PQcrypto-OpenVPN
 
+* [Adding](pqcrypto-openvpn/adding.md)
 * [Reference](pqcrypto-openvpn/reference.md)
 * [Index](pqcrypto-openvpn/index.md)
 * [PQCrypto-VPN](pqcrypto-openvpn/pqcrypto-vpn.md)
