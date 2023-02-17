@@ -15,4 +15,19 @@ description: '-'
 
 
 
+ex) 사용되는 예상 구조&#x20;
+
+* cAdvisor => prometheus => grafana => 매트릭을 사용한다&#x20;
+  * container Memory를 얼마 쓰는지 확인&#x20;
+
+
+
+
+
+
+
+
+
+
+
 [https://github.com/google/cadvisor](https://github.com/google/cadvisor)
