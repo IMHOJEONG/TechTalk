@@ -26,7 +26,25 @@ description: '-'
 
 <figure><img src="../../.gitbook/assets/openvpn_nat.gif" alt=""><figcaption></figcaption></figure>
 
+#### Tunneling Mode
 
+* IP(TUN 드라이버)와 이더넷(TAP 드라이버) 터널 중에서 선택할 수 있음&#x20;
+* IP 터널링 = 라우팅 모드&#x20;
+* 이더넷 터널링 = 브리징 모드&#x20;
+* 터널 내부에서 NetBIOS와 같은 이더넷 트래픽을 전달해야 하는 경우가 아니면 IP 터널 모드(기본 설정)를 선호&#x20;
+
+#### Tunnel Port
+
+* 기본 source 및 destination 포트는 UDP 1194
+* 방화벽 때문에 변경할 필요가 없는 한 기본 설정을 유지해야 함&#x20;
+* UDP 포트를 선호하며, TCP를 사용하면 성능이 저하될 수 있음&#x20;
+
+
+
+* 대부분의 응용 프로그램이 TCP를 사용하므로 TCP 터널링을 선택하면 TCP over TCP 터널이 생성됨&#x20;
+* 내부 TCP 터널에서 패킷을 재전송하는 경우 두 터널 모두에서 재계산이 발생하여 높은 응답 시간과 같은 느린 성능으로 이어져, 권장되지 않음&#x20;
+* 따라서 TCP와 달리 오버헤드 오류 검사 메커니즘이 발생하지 않으므로 UDP 프로토콜을 사용하여 응용 프로그램을 터널링하는 것이 좋음&#x20;
+* TCP over TCP?
 
 
 
