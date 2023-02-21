@@ -15,6 +15,8 @@
 * [Ctags](linux/ctags.md)
 * [ldd](linux/ldd.md)
 * [xargs](linux/xargs.md)
+* [Ninja](linux/ninja/README.md)
+  * [Intro](linux/ninja/intro.md)
 
 ## Ansible
 
@@ -132,7 +134,7 @@
   * [Kyber](pqcrypto-openvpn/crystals/kyber.md)
   * [Dilithium](pqcrypto-openvpn/crystals/dilithium.md)
 * [OpenVPN](pqcrypto-openvpn/openvpn/README.md)
-  * [Untitled](pqcrypto-openvpn/openvpn/untitled.md)
+  * [We Now Have OpenVPN Data Channel Offload: Here's What That Means](pqcrypto-openvpn/openvpn/we-now-have-openvpn-data-channel-offload-heres-what-that-means.md)
   * [TCP over TCP is A Bad idea?](pqcrypto-openvpn/openvpn/tcp-over-tcp-is-a-bad-idea.md)
   * [OpenVPN tutorial](pqcrypto-openvpn/openvpn/openvpn-tutorial.md)
 * [OpenSSL](pqcrypto-openvpn/openssl/README.md)
