@@ -17,6 +17,8 @@
 * [xargs](linux/xargs.md)
 * [Ninja](linux/ninja/README.md)
   * [Intro](linux/ninja/intro.md)
+* [Boot-loader](linux/boot-loader.md)
+* [odroid](linux/odroid.md)
 
 ## Ansible
 
@@ -115,6 +117,8 @@
   * [TLS v1.3](network/ssl-tls/tls-v1.3.md)
 * [ARP](network/arp.md)
 * [Loop](network/loop.md)
+* [DHCP](network/dhcp/README.md)
+  * [DHCPv4](network/dhcp/dhcpv4.md)
 
 ## Security
 
@@ -134,8 +138,8 @@
   * [Kyber](pqcrypto-openvpn/crystals/kyber.md)
   * [Dilithium](pqcrypto-openvpn/crystals/dilithium.md)
 * [OpenVPN](pqcrypto-openvpn/openvpn/README.md)
+  * [How-VPN-Encapsulation](pqcrypto-openvpn/openvpn/how-vpn-encapsulation.md)
   * [We Now Have OpenVPN Data Channel Offload: Here's What That Means](pqcrypto-openvpn/openvpn/we-now-have-openvpn-data-channel-offload-heres-what-that-means.md)
-  * [TCP over TCP is A Bad idea?](pqcrypto-openvpn/openvpn/tcp-over-tcp-is-a-bad-idea.md)
   * [OpenVPN tutorial](pqcrypto-openvpn/openvpn/openvpn-tutorial.md)
 * [OpenSSL](pqcrypto-openvpn/openssl/README.md)
   * [SSL/TLS Ceritficate](pqcrypto-openvpn/openssl/ssl-tls-ceritficate.md)
