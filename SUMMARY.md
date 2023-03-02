@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Index](README.md)
+* [Page 6](page-6.md)
 
 ## Linux
 
@@ -19,6 +20,15 @@
   * [Intro](linux/ninja/intro.md)
 * [Boot-loader](linux/boot-loader.md)
 * [odroid](linux/odroid.md)
+* [/proc/cpuinfo](linux/proc-cpuinfo/README.md)
+  * [Cpu 정보 분석](linux/proc-cpuinfo/cpu.md)
+  * [컴파일러 이론](linux/proc-cpuinfo/undefined.md)
+  * [AVX](linux/proc-cpuinfo/avx.md)
+  * [SIMD](linux/proc-cpuinfo/simd.md)
+  * [WebAssembly](linux/proc-cpuinfo/webassembly.md)
+  * [Data Dependency?](linux/proc-cpuinfo/data-dependency.md)
+  * [CFG](linux/proc-cpuinfo/cfg.md)
+  * [LLVM](linux/proc-cpuinfo/llvm.md)
 
 ## Ansible
 
@@ -168,3 +178,10 @@
 
 * [RTSP](video\_processing/rtsp.md)
 * [Index](video\_processing/index.md)
+
+## Hardware
+
+* [AMD](hardware/amd.md)
+* [Intel](hardware/intel/README.md)
+  * [Xeon](hardware/intel/xeon.md)
+  * [Page 8](hardware/intel/page-8.md)
