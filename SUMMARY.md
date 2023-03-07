@@ -129,6 +129,10 @@
 * [Loop](network/loop.md)
 * [DHCP](network/dhcp/README.md)
   * [DHCPv4](network/dhcp/dhcpv4.md)
+  * [DHCP Message Type](network/dhcp/dhcp-message-type.md)
+  * [DHCP Lease](network/dhcp/dhcp-lease.md)
+  * [DHCP Relay Agent](network/dhcp/dhcp-relay-agent.md)
+  * [DHCPv6](network/dhcp/dhcpv6.md)
 
 ## Security
 
@@ -164,6 +168,10 @@
 * [Closer Look at the SSL/TLS Handshake](pqcrypto-openvpn/closer-look-at-the-ssl-tls-handshake.md)
 * [Cipher Suites: Ciphers, Algorithms and Negotiating Security Settings](pqcrypto-openvpn/cipher-suites-ciphers-algorithms-and-negotiating-security-settings.md)
 * [생각해볼 부분](pqcrypto-openvpn/undefined.md)
+* [Crystal-Kyber?](pqcrypto-openvpn/crystal-kyber.md)
+* [동향](pqcrypto-openvpn/undefined-1/README.md)
+  * [NP-Hard](pqcrypto-openvpn/undefined-1/np-hard.md)
+  * [Page 6](pqcrypto-openvpn/undefined-1/page-6.md)
 
 ## SigNoz
 
