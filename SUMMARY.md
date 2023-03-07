@@ -23,3 +23,4 @@
 ## Group 1
 
 * [Github Copilot](group-1/github-copilot.md)
+* [언어AI 발전 흐름 속 ChatGPT 행간 읽기](group-1/ai-chatgpt.md)
